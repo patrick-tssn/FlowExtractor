@@ -5,6 +5,10 @@
 
 <img  src="https://github.com/v-iashin/v-iashin.github.io/raw/master/images/video_features/vid_feats.gif" width="300" />
 
+
+# You can find the original repository in [video_features](https://github.com/v-iashin/video_features)
+
+
 `video_features` allows you to extract features from video clips.
 It supports a variety of extractors and modalities,
 i.e. visual appearance, optical flow, and audio.
